@@ -1,0 +1,5 @@
+opencv-python==4.10.0.84
+cifar10==1.0.0
+torch==2.4.1
+pycocotools==2.0.8
+tensorflow==2.17.0
